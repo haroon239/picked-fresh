@@ -1,8 +1,38 @@
-# React + Vite
+# 🥬 Picked Fresh – Vegetable Shopping Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive vegetable shopping web application built using React. This project focuses on delivering a smooth user experience with dynamic product listings and cart functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 https://inspiring-custard-4dc92f.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📌 Features
+
+- 🛒 Add to Cart functionality  
+- 📦 Dynamic product listing  
+- 📱 Fully responsive design (mobile + desktop)  
+- ⚡ Fast and optimized UI using React  
+- 🎨 Clean and modern interface with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **Language:** JavaScript (ES6+)  
+- **Deployment:** Netlify  
+
+---
+
+## 📷 Screenshots
+
+<!-- Add screenshots here -->
+<!-- Example:
+![Home Page](./screenshots/home.png)
+-->
+
+---
+
+## 📂 Project Structure
